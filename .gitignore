@@ -1,5 +1,7 @@
 # Temporary project files
 MNIST_data/
+traffic-signs-data/
+traffic-signs-data.zip
 checkpoint
 lenet.data*
 lenet.index
